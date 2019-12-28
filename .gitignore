@@ -3,3 +3,6 @@ chromedriver.exe
 
 # configuration for bot
 config.ini
+
+#ignore output text files
+*.txt
